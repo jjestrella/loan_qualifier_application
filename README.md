@@ -1,5 +1,3 @@
-# loan_qualifier_application
-
 # Project Title & Description
 
 Loan Qualifier Application:
@@ -10,10 +8,8 @@ Loan Qualifier Application:
 ## Technologies
 Using Python3 language
 
-Latest versions of the following dependencies:
-Importing sys
-Importing fire
-Importing questionary
+and with the Latest versions of the following dependencies:
+sys, fire and questionary
 
 ---
 
